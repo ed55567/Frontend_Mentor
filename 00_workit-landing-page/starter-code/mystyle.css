@@ -1,0 +1,49 @@
+body {
+    font-family: Fraunces, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #24053E;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #24053E;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #24053E;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #24053E;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #24053E;
+  }
+  
+  footer {
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
